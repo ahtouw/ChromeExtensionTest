@@ -1,0 +1,19 @@
+body {
+    font-family: Bahnschrift !important;
+}
+
+#makeText {
+    height: 300px;
+    width: 400px;
+    outline: none;
+    text-align: center;
+}
+
+#formGrid {
+    height: 90%;
+    width: 100%;
+}
+
+#inputBox {
+    height: 95%;
+}

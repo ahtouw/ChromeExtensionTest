@@ -1,0 +1,20 @@
+body {
+    background: #ffbab1;
+    font-family: Bahnschrift, serif !important;
+}
+div {
+    height: 100vh;
+}
+h3 {
+    text-align: center;
+}
+
+h5 {
+    margin-left: 5%;
+}
+
+p {
+    margin-left: 10%;
+    margin-right: 5%;
+    word-break: break-word;
+}
